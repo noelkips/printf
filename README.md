@@ -1,14 +1,14 @@
    0x11. C - printf
 
 This is a team project
-Authors
+Authors:
 
 [Noel K Langat](https://github.com/noelkips)
 
 [Zeberio Morande](https://github.com/Zeb-0)
 
 The project and the resources in this repository cover concepts
-to write the prinf function that works like stadard library (printf.h)
+to write the prinf function that works like stadard library (printf.h).
 
 Resources
 
@@ -117,4 +117,4 @@ Handle the following flag characters for non-custom conversion specifiers:
 
 14. The flood of print has turned reading into a process of gulping rather than savoring
 	. Handle the following custom conversion specifier:
-	. R: prints the rot13'ed string
+	. R: prints the rot13'ed string.
